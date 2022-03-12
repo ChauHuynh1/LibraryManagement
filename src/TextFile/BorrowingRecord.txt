@@ -1,0 +1,4 @@
+0934956020; Nguyen Dang Huynh Chau; Book; The woman in black; 1; Borrow; 08/08/2020; 13/08/2020; 0;
+0934956020; Nguyen Dang Huynh Chau; Book; The woman in black; 1; Borrow; 08/08/2020; 14/08/2020; 0;
+0934956020; Nguyen Dang Huynh Chau; Book; Boy; 1; Borrow; 08/08/2020; 15/08/2020; 0;
+0934956020; Nguyen Dang Huynh Chau; Book; Boy; 1; Return; 08/08/2020; 15/08/2020; 17/08/2020;

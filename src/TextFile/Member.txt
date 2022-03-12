@@ -1,0 +1,8 @@
+Nguyen Dang Huynh Chau; C9876543; 0934956020; s3276578@rmit.edu.vn; 5 Duong Quang Ham, D9, Ho Chi Minh; 15/07/2025; Available; 
+Nguyen Dang Dang Thao; C1234567; 0871243567; s3777214@rmit.edu.vn; 8 Nguyen Dinh Chieu, D8, Ho Chi Minh; 23/07/2020; Expired; 
+Nguyen Dang Huynh Tran; C7654321; 0987654367; s3876907@rmit.edu.vn; 9 Nguyen Trai, D7, Ho Chi Minh; 05/09/2025; Available; 
+Huynh Thi Thanh Dieu; C6578965; 0765438769; s789654@rmit.edu.vn; 12 Duong Quang Ham, D9, Ho Chi Minh; 19/07/2021; Available; 
+Ta Tuyet Mai; C2938765; 09876543219; s3777214@rmit.edu.vn; 12 Duong Quang Ham, D9, Ha Noi; 23/08/2019; Expired; 
+Ta Quang Phuoc; C2987654; 09218769023; s3999876@rmit.edu.vn; 12 Duong Quang Ham, D9, Ha Noi; 23/08/2030; Active; 
+Huynh Y Nhung; C3910289; 09092398710; s3999091@rmit.edu.vn; 2 Nguyen Van Luong, D9, Ho Chi Minh; 23/09/2020; Active; 
+Huynh Quang Thanh; C3090516; 09879021329; s3018760@rmit.edu.vn; 4 Pham Van Dong, D6, Ho Chi Minh; 23/09/2019; Expired; 
